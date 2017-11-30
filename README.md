@@ -1,6 +1,6 @@
 # sensor
 
-You need to a mongo database to run this application. Right now, it's configured to use local instance as per boot's
+You need a mongo database to run this application. Right now, it's configured to use local instance of mongo as per boot's
 default configuration.
 
 How to run?
