@@ -1,4 +1,4 @@
-package com.egen.sensor;
+package com.egen.sensor.config;
 
 import com.mongodb.MongoClient;
 import org.mongodb.morphia.Datastore;
