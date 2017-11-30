@@ -14,3 +14,5 @@ To run in the terminal - Go to project folder and run the following commands.
 mvn clean package
 
 mvn spring-boot:run 
+
+To look at the api contracts - http://localhost:8080/swagger-ui.html
